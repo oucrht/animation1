@@ -1,2 +1,2 @@
 # animation
-** 忽略.idea文件夹 **
+**忽略.idea文件夹**
