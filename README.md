@@ -1,2 +1,2 @@
 # animation
-<span style="color:red">忽略.idea文件夹</span>
+<u>忽略.idea文件夹</u>
